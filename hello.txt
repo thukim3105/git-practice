@@ -6,4 +6,4 @@ authentication
 
 payment
 
-authorization
+login
