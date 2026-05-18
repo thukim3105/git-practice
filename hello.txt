@@ -7,3 +7,5 @@ authentication
 payment
 
 login
+
+registration
